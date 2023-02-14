@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "David Schweizer"
+  navbar:
+    right:
+      - href: index.qmd
+        text: "home"
+      - href: research.qmd
+        text: "research"
+        
+format:
+  html:
+    theme: 
+      light: journal
+      #dark: darkly
+    css: styles.css
+
+editor: visual

@@ -16,6 +16,6 @@ format:
     theme: 
       light: journal
       #dark: darkly
-    css: styles.css
+    css: [styles.css, icons.css]
 
 editor: visual

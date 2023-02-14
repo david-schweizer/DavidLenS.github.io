@@ -1,1 +1,22 @@
-/* css styles */
+/*-- scss:defaults --*/
+
+
+/*-- scss:rules --*/
+
+/*-- header background --*/
+#quarto-header > nav {
+  background-color: #8399B0;
+}
+
+/*-- callout note background --*/
+div.callout-note.callout {
+  border-left-color: #8399B0;
+}
+
+/*-- links --*/
+a {
+  color: #8399B0;
+}
+
+
+

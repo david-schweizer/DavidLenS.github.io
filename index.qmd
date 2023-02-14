@@ -8,10 +8,13 @@ about:
   links:
     - text: LinkedIn
       href: https://www.linkedin.com/in/schweizer-david/
+      icon: linkedin
     - text: Twitter
       href: https://twitter.com/DavidLSchweizer
+      icon: twitter
     - text: Email
       href: mailto:david.schweizer@uni-mannheim.de
+      icon: envelope-at
 ---
 
 ## Hi, there!

@@ -4,6 +4,7 @@ project:
 
 website:
   title: "David Schweizer"
+  search: false
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
     left: "&copy; Copyright 2023, David Schweizer"

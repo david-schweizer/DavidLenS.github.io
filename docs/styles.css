@@ -18,5 +18,17 @@ a {
   color: #8399B0;
 }
 
+/*-- search box --*/
+body > div.aa-DetachedOverlay > div > div > form {
+    border-color: #8399B0!important;
+    color
+}
+
+/*-- button --*/
+body > div.aa-DetachedOverlay > div > div > button {
+    border-color: #8399B0;
+}
+
+
 
 

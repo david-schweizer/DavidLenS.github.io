@@ -12,10 +12,12 @@ website:
     right:
       # - href: index.qmd
       #   text: "home"
+      - href: CV_DavidSchweizer_20230325.pdf
+        text: "CV"
       - href: research/index_research.qmd
-        text: "research"
+        text: "Research"
       - href: teaching.qmd
-        text: "teaching"
+        text: "Teaching"
         
 format:
   html:

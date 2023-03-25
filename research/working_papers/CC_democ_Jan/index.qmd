@@ -1,0 +1,13 @@
+---
+title: "Worried About Climate Change and Unsatisfied With Democracy?"
+author: 
+  - name: Jan Menzner
+    affiliation: University of Mannheim
+  - name: David Schweizer
+    affiliation: University of Mannheim
+  
+---
+
+## Abstract
+
+Climate change is widely perceived as the most significant challenge of this century. We argue the more citizens are concerned about the effects of climate change and unsatisfied with their government's climate politics, the greater their dissatisfaction with democracy and propensity to hold anti-elitist views. We draw on two German panel data sets to address these understudied relationships. First, we examine the main relationship between being worried about climate change and satisfaction with democracy as it exists in Germany using data from three waves (2010, 2016, 2020) of the Socio-Economic Panel. We reproduce this analysis with data from the German Longitudinal Election Study (GLES) Panel, ranging from 2017 to 2022. Further, using three GLES waves, we study how satisfaction with the government's climate action affects general satisfaction with democracy. Finally, we investigate the association between prioritizing climate action and multiple dimensions of populism, focusing on anti-elitism. Against the backdrop of exacerbating climate change, our research contributes to understanding how worries about climate change and dissatisfaction with political action might translate into disenchantment with the democratic system itself.

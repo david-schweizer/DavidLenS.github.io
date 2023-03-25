@@ -1,0 +1,29 @@
+---
+title: ""
+---
+
+## Teaching
+
+#### The Politics of Climate Change
+
+*Spring 2023 \| University of Mannheim \| Undergraduate level*
+
+-   This course introduces students to theories and methods on the nexus of climate change and politics. It primarily focuses on (quantitative) empirical research addressing party competition, political behavior, and policymaking.
+
+#### Academic Research and Writing
+
+*Fall 2022 \| University of Mannheim \| Undergraduate level*
+
+-   The course introduces first year students to the basics of scientific work and good scientific practice.
+
+#### Data Collection and Analysis with R
+
+*Spring 2022 \| University of Mannheim \| Undergraduate level*
+
+-   The course introduces students to data collection and analysis for web (and social media) data using the R programming language.
+
+#### Data Visualization for Comparative Politics with R
+
+*Fall 2021 \| University of Mannheim \| Undergraduate level*
+
+-   The course introduces students to data visualization techniques for comparative politics using the R programming language.

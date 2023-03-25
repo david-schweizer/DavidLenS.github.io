@@ -1,0 +1,37 @@
+---
+title: ""
+listing: 
+  - id: working_papers
+    contents: working_papers/*/index.qmd
+    type: table
+    fields: [image, title, author]
+    filter-ui: false
+    sort-ui: false
+  # - id: selected_workinprogress
+  #   contents: selected_workinprogress/*/index.qmd    
+  #   type: table
+  #   fields: [image, title, author]
+
+---
+
+## Working papers
+
+:::{#working_papers}
+:::
+
+<!-- :::{selected_workinprogress} -->
+<!-- ::: -->
+
+## Selected Work in Progress
+
+::: {.callout-note icon="false" appearance="simple"}
+**A Natural Divide? Climate Change and Party Unity**
+:::
+
+::: {.callout-note icon="false" appearance="simple"}
+**Forest Loss and Party Competition: Examining the Local Politics of Climate Change**
+:::
+
+::: {.callout-note icon="false" appearance="simple"}
+**The Differentiated Impact of Perceived EU Regional Policy on Citizen's Position on European Integration** with [Marc Debus](https://www.sowi.uni-mannheim.de/debus/team/lehrstuhlinhaber/)
+:::

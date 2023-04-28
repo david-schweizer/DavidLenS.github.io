@@ -12,7 +12,7 @@ website:
     right:
       # - href: index.qmd
       #   text: "home"
-      - href: CV_DavidSchweizer_20230325.pdf
+      - href: CV_DavidSchweizer_20230428.pdf
         text: "CV"
       - href: research/index_research.qmd
         text: "Research"

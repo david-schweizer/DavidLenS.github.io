@@ -14,10 +14,10 @@ website:
       #   text: "home"
       - href: CV_DavidSchweizer_20231201.pdf
         text: "CV"
-      - href: research/index_research.qmd
-        text: "Research"
-      - href: teaching.qmd
-        text: "Teaching"
+      # - href: research/index_research.qmd
+      #   text: "Research"
+      # - href: teaching.qmd
+      #   text: "Teaching"
         
 format:
   html:

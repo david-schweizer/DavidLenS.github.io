@@ -17,8 +17,8 @@ about:
       icon: envelope-at
 ---
 
-I am a Ph.D. student in Political Science at the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/) at the University of Mannheim. I am employed as a research associate at the [Chair of Comparative Government](https://www.sowi.uni-mannheim.de/en/debus/) teaching seminars on data collection, transformation, and visualization using R.
+I am a Ph.D. student in Political Science at the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/) at the University of Mannheim and employed as a research associate at the [Chair of Comparative Government](https://www.sowi.uni-mannheim.de/en/debus/) teaching seminars on data collection, transformation, and visualization using R.
 
-In my dissertation, I focus on (intra-) party competition and political behavior. Specifically, using computational methods, I study how and under what circumstances parties and politicians respond to the impacts of climate change. Furthermore, I investigate climate change related trade-offs using survey data.
+In my dissertation, I focus on (intra-) party competition and political behavior. Using computational methods, I study how and under what circumstances parties and politicians respond to the impacts of climate change. Furthermore, I investigate climate change related trade-offs using survey data.
 
 Feel free to reach out via e-mail, Twitter, or LinkedIn if your are interested in my research.

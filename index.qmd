@@ -12,9 +12,12 @@ about:
     - text: Bluesky
       href: https://bsky.app/profile/davidschweizer.bsky.social
       icon: bluesky
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=NO7N2qoAAAAJ&hl=de&oi=ao
+      icon: mortarboard-fill
     - text: Email
       href: mailto:david.schweizer@uni-mannheim.de
-      icon: envelope-at
+      icon: envelope-at-fill
 ---
 
 I am a Ph.D. student in Political Science at the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/) at the University of Mannheim and employed as a research associate at the [Chair of Comparative Government](https://www.sowi.uni-mannheim.de/en/debus/) teaching seminars on data collection, transformation, and visualization using R.

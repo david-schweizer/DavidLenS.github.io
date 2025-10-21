@@ -9,9 +9,9 @@ about:
     - text: LinkedIn
       href: https://www.linkedin.com/in/schweizer-david/
       icon: linkedin
-    - text: Twitter
-      href: https://twitter.com/DavidLSchweizer
-      icon: twitter
+    - text: Bluesky
+      href: https://bsky.app/profile/davidschweizer.bsky.social
+      icon: bluesky
     - text: Email
       href: mailto:david.schweizer@uni-mannheim.de
       icon: envelope-at

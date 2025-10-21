@@ -7,7 +7,7 @@ website:
   search: false
   page-footer:
     right: "This page is built with [Quarto](https://quarto.org/)."
-    left: "&copy; Copyright 2024, David Schweizer"
+    left: "&copy; Copyright 2025, David Schweizer"
   navbar:
     right:
       # - href: index.qmd

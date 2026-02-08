@@ -1,0 +1,109 @@
+/* overall stack of sections */
+.research {
+  display: flex;
+  flex-direction: column;
+  gap: 2.8rem;
+}
+
+/* section label (Peer-Reviewed Articles / Working Papers) */
+.section-label {
+  font-size: 2rem;
+  font-weight: 800;
+  padding-bottom: 0.5rem;
+}
+
+/* section content: stack papers or year blocks */
+.section-content {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;  /* vertical space between papers or year blocks */
+}
+
+/* year block for Peer-Reviewed Articles */
+.year-block {
+  display: grid;
+  grid-template-columns: 90px 1fr; /* year column + content */
+  column-gap: 1.5rem;
+  margin-bottom: 2rem; /* space after year block */
+}
+
+/* year label styling */
+.year-label {
+  font-size: 2rem;
+  font-weight: 800;
+  text-align: right;
+  padding-right: 1rem;
+  color: #333;
+}
+
+/* year content: stack papers vertically */
+.year-content {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;              /* vertical space between papers */
+  border-left: 3px solid #e6e6e6;
+  padding-left: 1.1rem;   /* space from timeline line */
+}
+
+/* paper content (title, meta, co-authors, abstract) */
+.paper h4 {
+  margin: 0;
+  font-size: 1.15rem;
+}
+
+/* journal name / working paper series */
+.meta {
+  color: #666;
+  font-style: italic;
+  margin-bottom: 0.2rem;
+}
+
+/* co-authors */
+.co-authors {
+  color: #777;
+  font-size: 0.85rem;
+  margin-bottom: 0.3rem;
+}
+
+/* abstract preview text */
+.paper-text {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;   /* number of lines to show in preview */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-top: 0.3rem;
+  transition: max-height 0.3s ease;
+  position: relative;
+}
+
+/* read full abstract button below text — link style, no box */
+.paper-text + .read-more {
+  display: inline-block;
+  margin-top: 0.2rem;
+  color: #4C78A8;
+  font-weight: 500;
+  cursor: pointer;
+  font-size: 0.9rem;
+  text-decoration: underline;
+  background: none;
+  border: none;
+  padding: 0;
+}
+
+/* hover effect */
+.paper-text + .read-more:hover {
+  color: #2c4a7f;
+}
+
+/* expanded abstract */
+.paper-text.expanded {
+  -webkit-line-clamp: unset;
+  display: block;
+}
+
+/* Working Papers — ensure proper stacking even without year */
+.section-content:not(.year-content) .paper {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem; /* small gap between title, meta, co-authors, abstract */
+}

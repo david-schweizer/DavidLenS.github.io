@@ -1,0 +1,85 @@
+/* overall stack of years */
+.teaching {
+  display: flex;
+  flex-direction: column;
+  gap: 2.8rem;
+}
+
+/* each year block */
+.year-block {
+  display: grid;
+  grid-template-columns: 90px 1fr;
+  column-gap: 1.5rem;
+}
+
+/* big year label */
+.year-label {
+  font-size: 2rem;
+  font-weight: 800;
+  text-align: right;
+  padding-right: 1rem;
+}
+
+/* timeline column */
+.year-content {
+  display: grid;
+  grid-template-columns: 55px 1fr;
+  column-gap: 1.7rem;   /* ← space between term and course */
+  row-gap: 1.6rem;
+  border-left: 3px solid #e6e6e6;
+  padding-left: 1.1rem; /* ← pushes course away from line */
+}
+
+
+
+/* semester label */
+.term {
+  text-align: keft;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  color: #777;
+  padding-top: .25rem;
+}
+
+/* course content */
+.course h4 {
+  margin: 0;
+  font-size: 1.15rem;
+}
+
+.meta {
+  color: #666;
+  font-style: italic;
+  margin-bottom: .3rem;
+}
+
+.course ul {
+  margin-top: .25rem;
+}
+
+.course-text {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;   /* number of lines to show in preview */
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-top: .3rem;
+  transition: max-height 0.3s ease;
+  position: relative;
+}
+
+/* separate read-more button below text */
+.course-text + .read-more {
+  display: inline-block;
+  margin-top: .2rem;
+  color: #4C78A8;
+  font-weight: 500;
+  cursor: pointer;
+  font-size: 0.9rem;
+}
+
+/* expanded state */
+.course-text.expanded {
+  -webkit-line-clamp: unset;
+  display: block;
+}

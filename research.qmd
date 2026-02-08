@@ -1,32 +1,238 @@
 ---
 title: ""
+format: 
+  html:
+    css: research-styles.css
+    toc: true
+    toc-location: left
+    toc-depth: 1
+    toc-title: "Research"
 ---
 
-## Working Papers
+# Peer-reviewed
 
-::: {.callout-note icon="false" appearance="simple"}
-**No Planet B? Climate Change and Party Competition**
+<!-- Peer-Reviewed Articles -->
+
+:::::::::::::::::::::: section-block
+::::::::::::::::::::: section-content
+<!-- 2025 -->
+
+::::::::::::: year-block
+::: year-label
+2025
 :::
 
-**Abstract:** Climate change, one of the biggest challenges of our time, increasingly shapes party competition in Western Europe. Particularly tangible phenomena of climate change are natural disasters. Parties' responses to these climate change-related events have the potential to shape public opinion and individual attitudes on this critical matter. While scholars have examined the effect of natural disasters on the latter, the effect on political parties themselves remains understudied. I argue that such drastic events have a differentiated impact. Following these events, the salience of climate change issues should increase among all political parties. In contrast, I expect that party competition on these issues becomes more polarized, i.e., that parties take more extreme positions. I test these expectations by examining the effect of natural disasters such as severe floods or draughts in six Western European countries between 2012 and 2022. The analysis is based on press releases by the main political parties regularly represented in the respective national parliaments, which allows me to study both short- and long-term effects. Specifically, I construct a time-series cross-sectional party-month data set. Using matching methods, I then exploit the occurrence of natural disasters as quasi-natural experiments for causal effect estimation. The results contribute to our understanding of the new divide between green and populist radical right parties and the polarization of party systems.
+::::::::::: year-content
+:::::: paper
+#### [Is secular–religious party competition moving online? Digital religious profiles of candidates running for the European Parliament](https://www.frontiersin.org/journals/political-science/articles/10.3389/fpos.2025.1548602/full)
 
-::: {.callout-note icon="false" appearance="simple"}
-**Worried About Climate Change and Unsatisfied With Democracy?** with [Jan Menzner](https://janmenzner.org/home/)
+::: meta
+Frontiers in Political Science
 :::
 
-**Abstract:**\
-Climate change is widely perceived as the most significant challenge of this century. We argue the more citizens are concerned about the effects of climate change and unsatisfied with their government's climate politics, the greater their dissatisfaction with democracy and propensity to hold anti-elitist views. We draw on two German panel data sets to address these understudied relationships. First, we examine the main relationship between being worried about climate change and satisfaction with democracy as it exists in Germany using data from three waves (2010, 2016, 2020) of the Socio-Economic Panel. We reproduce this analysis with data from the German Longitudinal Election Study (GLES) Panel, ranging from 2017 to 2022. Further, using three GLES waves, we study how satisfaction with the government's climate action affects general satisfaction with democracy. Finally, we investigate the association between prioritizing climate action and multiple dimensions of populism, focusing on anti-elitism. Against the backdrop of exacerbating climate change, our research contributes to understanding how worries about climate change and dissatisfaction with political action might translate into disenchantment with the democratic system itself.
-
-### Selected Work in Progress
-
-::: {.callout-note icon="false" appearance="simple"}
-**A Natural Divide? Climate Change and Party Unity**
+::: co-authors
+Eva-Maria Euchner, David Schweizer, Daniela Braun
 :::
 
-::: {.callout-note icon="false" appearance="simple"}
-**Forest Loss and Party Competition: Examining the Local Politics of Climate Change**
+::: paper-text
+New digital technologies alter various societal spheres, including the landscape of religion and politics. “Christianity influencers,” faith tweets, digital chaplaincy and online Islamic hate speech are notable examples in place. The rapidly growing body of scholarship known as digital religion studies explores the extent to which traditional religious practices are being adapted to digital environments. However, while this nascent field profits from interdisciplinary perspectives, the political dimension of this transformation is still underdeveloped. Specifically, it is unclear how political actors refer to religion during online campaigning across Europe and whether the existing patterns reflect “classical offline divides” between secular and religious parties. This paper contributes to this gap by providing first-hand empirical evidence of online references to religion by candidates running for the European Parliament in 2019 in four countries (Germany, Sweden, the Netherlands and the United Kingdom). The study uses a mixed-methods approach, combining qualitative and quantitative analyses of European politicians’ X (formerly Twitter) profiles. Overall, religion plays a subordinate role in online political campaigning; however, there is substantial country variation, indicating a higher salience of religion in Swedish and Dutch campaigns in comparison to German or British online discourses. Furthermore, candidates from political parties with religious roots are more likely to refer to religion than those from more secular parties, reflecting traditional secular-religious divisions. The paper advances existing research on religion and party politics through its fresh perspective on religion outside classical arenas of political conflict and inside important alternative venues of political competition.
 :::
 
-::: {.callout-note icon="false" appearance="simple"}
-**The Differentiated Impact of Perceived EU Regional Policy on Citizen's Position on European Integration** with [Marc Debus](https://www.sowi.uni-mannheim.de/debus/team/lehrstuhlinhaber/)
+<button class="read-more" onclick="this.previousElementSibling.classList.toggle(&#39;expanded&#39;); this.textContent = this.previousElementSibling.classList.contains(&#39;expanded&#39;) ? &#39;Show less&#39; : &#39;Show full abstract&#39;;">
+
+Show full abstract
+
+</button>
+::::::
+
+:::::: paper
+#### [The Differentiated Impact of Perceived EU Regional Policy on Citizens’ Positions on European Integration](https://link.springer.com/article/10.1007/s11615-024-00568-5)
+
+::: meta
+Politische Vierteljahreschrift
 :::
+
+::: co-authors
+Marc Debus, David Schweizer
+:::
+
+::: paper-text
+The main goal of the regional development programme of the European Union (EU) is to decrease disparities in the economic situation between the regional units of the EU member states. An important side note effect of EU regional policy is that citizens should be able to directly identify the positive aspects of European integration when realising the impact of the EU for structural programmes in their city or region. We aim to evaluate this mechanism and ask whether the individually perceived benefit of EU regional funds in the home area of a respondent has a positive impact on their position towards European integration. Furthermore, we discuss how a relational perspective on EU regional funds—that is, whether a respondent considers other regions or other EU member states to benefit more from the EU regional funds than their own region—mediates the expected positive impact of EU regional funds on an individual’s position on European integration. We answer these questions by analysing new survey data conducted in two German states, Baden-Wuerttemberg and Thuringia, which differ significantly in terms of the regional funding they receive. The analysis shows not only that there is a significant difference in the positions of respondents on European integration between the two regions but also that perceiving personal benefits of EU regional funding increases the support for European integration. Furthermore, individuals’ thinking that their own region benefits more from EU regional funding than other regions tends to increase their support for European integration.
+:::
+
+<button class="read-more" onclick="this.previousElementSibling.classList.toggle(&#39;expanded&#39;); this.textContent = this.previousElementSibling.classList.contains(&#39;expanded&#39;) ? &#39;Show less&#39; : &#39;Show full abstract&#39;;">
+
+Show full abstract
+
+</button>
+::::::
+:::::::::::
+:::::::::::::
+
+<!-- 2024 -->
+
+::::::::: year-block
+::: year-label
+2024
+:::
+
+::::::: year-content
+:::::: paper
+#### [Data: Climate Policy: Emotions, Attitudes and Trade-Offs](https://companion-is.soep.de/Innovative%20Modules/2023/Climate%20Policy.html)
+
+::: meta
+SOEP Innovation Module - Survey Year 2023
+:::
+
+::: co-authors
+Jan Menzner, David Schweizer
+:::
+
+::: paper-text
+This module surveys respondents’ attitudes and emotions towards climate change and their support for various mitigation policies (i.e., push- and pull-measures, regulations). Further, it investigates whether citizens trade off democratic principles for their climate policy goals, and how they perceive and solve the trade-off between economic goals and climate action.
+:::
+
+<button class="read-more" onclick="this.previousElementSibling.classList.toggle(&#39;expanded&#39;); this.textContent = this.previousElementSibling.classList.contains(&#39;expanded&#39;) ? &#39;Show less&#39; : &#39;Show full abstract&#39;;">
+
+Show full abstract
+
+</button>
+::::::
+:::::::
+:::::::::
+:::::::::::::::::::::
+::::::::::::::::::::::
+
+# Working papers
+
+<!-- Working Papers -->
+
+::::::::::::::::::::::::: section-block
+:::::::::::::::::::::::: section-content
+::::: paper
+#### How Occupation Shapes Awareness and Preferences for European Funding
+
+::: meta
+:::
+
+::: co-authors
+Johannes Lattmann, David Schweizer
+:::
+
+[Conditionally Accepted]{.status-badge .status-conditional}
+:::::
+
+::::: paper
+#### The Underlying Dimensions of Political Support
+
+::: meta
+:::
+
+::: co-authors
+Jan Menzner, David Schweizer
+:::
+
+[R&R]{.status-badge .status-rr}
+:::::
+
+::::: paper
+#### ClimaParl: Detecting Climate Change in Political Text
+
+::: meta
+:::
+
+::: co-authors
+Lukas Isermann, David Schweizer, Noam Himmelrath
+:::
+:::::
+
+::::: paper
+#### Heated debates? How the radical-right affects parliamentary discourse on climate change
+
+::: meta
+:::
+
+::: co-authors
+David Schweizer
+:::
+:::::
+
+::::: paper
+#### A Natural Divide? Climate Change and Party Unity
+
+::: meta
+:::
+
+::: co-authors
+David Schweizer
+:::
+:::::
+
+::::: paper
+#### How Growing Climate Concern Erodes Democratic Satisfaction
+
+::: meta
+:::
+
+::: co-authors
+Jan Menzner, David Schweizer
+:::
+:::::
+
+::::: paper
+#### The Weimar Parliament Database
+
+::: meta
+:::
+
+::: co-authors
+Benjamin Rohr, John Levi Martin, Jan Kamlah, Julius Diener, David Schweizer
+:::
+:::::
+
+
+::::: paper
+#### The ECB in National Parliaments: Mapping Discourse and its Drivers
+
+::: meta
+:::
+
+::: co-authors
+Xavier D’Arcy, Ferdinand Dreher, Niklas Jütting, Cyprien Milea, David Schweizer
+:::
+:::::
+
+
+
+::::::::::::::::::::::::
+:::::::::::::::::::::::::
+
+# Other publications
+
+<!-- other publications -->
+
+:::::::: section-block
+::::::: section-content
+:::::: paper
+#### [A 15-year retrospective of European elections: women’s political participation and representation (2024).](https://euandi.eu/en/blog/knowlegde-bites/a-15-year-retrospective-of-european-elections-women-s-political-participation-and-representation.html)
+
+::: meta
+Blog entry: EU&I’s “Knowledge Bites” section on their Voting Advice Application website
+:::
+
+::: co-authors
+Milena Rapp, David Schweizer
+:::
+
+::: paper-text
+The elections for the European Parliament are just around the corner. From June 6 to 9, EU citizens are called upon to cast their vote in the European elections. This vote determines who is elected as a Member of the European Parliament (MEP), working on legislation that affects the daily life of Europeans, including laws regarding climate, economic, and security policies. Thus, voting in the European elections can have a great impact. But do Europeans exercise their right to vote and are there differences between men and women? And are there gender-specific differences in the composition of the European Parliament?
+:::
+
+<button class="read-more" onclick="this.previousElementSibling.classList.toggle(&#39;expanded&#39;); this.textContent = this.previousElementSibling.classList.contains(&#39;expanded&#39;) ? &#39;Show less&#39; : &#39;Show more&#39;;">
+
+Show more
+
+</button>
+::::::
+:::::::
+::::::::

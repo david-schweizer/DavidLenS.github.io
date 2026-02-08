@@ -20,8 +20,10 @@ about:
       icon: envelope-at-fill
 ---
 
-I am a Ph.D. student in Political Science at the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/) at the University of Mannheim and employed as a research associate at the [Chair of Comparative Government](https://www.sowi.uni-mannheim.de/en/debus/) teaching seminars on data collection, transformation, and visualization using R.
+::: about-me-text
+Hello! I am David, a Ph.D. student in Political Science at the [Graduate School of Economic and Social Sciences](https://www.uni-mannheim.de/gess/) at the University of Mannheim. As part of my PhD, I worked as a research associate at the [Chair of Comparative Government](https://www.sowi.uni-mannheim.de/en/debus/), teaching seminars on data collection, transformation, and visualization using R. I also worked as a PhD Trainee at the European Central Bank's EU Institutions and Fora division.
 
-In my dissertation, I focus on (intra-) party competition and political behavior. Using computational methods, I study how and under what circumstances parties and politicians respond to the impacts of climate change. Furthermore, I investigate climate change related trade-offs using survey data.
+My research explores how political and societal transformations, such as climate change, digitalization, or EU cohesion policy affect **(intra-)party competition**, **political behavior**, and **political communication**. Methodologically, I draw on a range of approaches, with a focus on **computational text analysis** of parliamentary speeches, press releases, and social media data. In my dissertation, I study how parties, politicians, and citizens deal with the consequences of **climate change**.
 
-Feel free to reach out via e-mail, Twitter, or LinkedIn if your are interested in my research.
+Feel free to reach out via e-mail, Bluesky, or LinkedIn if you are interested in my research or collaboration.
+:::

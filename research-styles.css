@@ -1,0 +1,171 @@
+/* overall stack of sections */
+.research {
+  display: flex;
+  flex-direction: column;
+  gap: 2.8rem;
+}
+
+/* section label (Peer-Reviewed Articles / Working Papers) */
+.section-label {
+  font-size: 2rem;
+  font-weight: 800;
+  padding-bottom: 0.5rem;
+}
+
+/* section content: stack papers or year blocks */
+.section-content {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+/* year block for Peer-Reviewed Articles */
+.year-block {
+  display: grid;
+  grid-template-columns: 90px 1fr;
+  column-gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+/* year label styling */
+.year-label {
+  font-size: 2rem;
+  font-weight: 800;
+  text-align: right;
+  padding-right: 1rem;
+  color: #333;
+}
+
+/* year content: stack papers vertically */
+.year-content {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+  border-left: 3px solid #e6e6e6;
+  padding-left: 1.1rem;
+}
+
+/* paper block — tight spacing between title, meta, co-authors */
+.paper {
+  display: flex;
+  flex-direction: column;
+}
+
+/* paper title */
+.paper h4 {
+  margin: 0 0 0.15rem 0;
+  font-size: 1.15rem;
+}
+
+/* journal name / working paper series */
+.meta {
+  color: #666;
+  font-style: italic;
+  margin: 0 0 0.1rem 0;
+}
+
+.meta p {
+  margin: 0;
+}
+
+/* co-authors */
+.co-authors {
+  color: #777;
+  font-size: 0.85rem;
+  margin: 0 0 0.15rem 0;
+}
+
+.co-authors p {
+  margin: 0;
+}
+
+/* abstract preview text */
+.paper-text {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  margin-top: 0.4rem;
+  transition: max-height 0.3s ease;
+  position: relative;
+}
+
+.paper-text p {
+  margin: 0;
+}
+
+/* expanded abstract */
+.paper-text.expanded {
+  -webkit-line-clamp: unset;
+  display: block;
+}
+
+/* read full abstract button — left aligned, link style */
+.read-more {
+  display: inline-block;
+  margin-top: 0.25rem;
+  color: #4C78A8;
+  font-weight: 500;
+  cursor: pointer;
+  font-size: 0.9rem;
+  text-decoration: underline;
+  background: none;
+  border: none;
+  padding: 0;
+  font-family: inherit;
+  text-align: left;
+}
+
+.read-more:hover {
+  color: #2c4a7f;
+}
+
+/* ---- Status badges for Working Papers ---- */
+.status-badge {
+  display: inline-block;
+  margin-top: 0.35rem;
+  padding: 0.2rem 0.65rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  border-radius: 4px;
+  letter-spacing: 0.02em;
+}
+
+/* R&R */
+.status-rr {
+  background-color: #fff3cd;
+  color: #856404;
+  border: 1px solid #ffc107;
+}
+
+/* Conditionally Accepted */
+.status-conditional {
+  background-color: #d4edda;
+  color: #155724;
+  border: 1px solid #28a745;
+}
+
+/* Under Review */
+.status-review {
+  background-color: #e2e3f1;
+  color: #383d6e;
+  border: 1px solid #6c71c4;
+}
+
+/* Accepted */
+.status-accepted {
+  background-color: #cce5ff;
+  color: #004085;
+  border: 1px solid #007bff;
+}
+
+.paper h4 a {
+  font-weight: inherit;
+  color: inherit;
+  text-decoration: none;
+}
+
+.paper h4 a:hover {
+  color: #4C78A8;
+  text-decoration: underline;
+}

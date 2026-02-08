@@ -9,15 +9,15 @@ website:
     right: "This page is built with [Quarto](https://quarto.org/)."
     left: "&copy; Copyright 2025, David Schweizer"
   navbar:
-    right:
-      # - href: index.qmd
-      #   text: "home"
-      - href: CV_DavidSchweizer_website.pdf
+    left:
+      - href: index.qmd
+        text: "About"
+      - href: research.qmd
+        text: "Research"
+      - href: teaching.qmd
+        text: "Teaching"
+      - href: cv_schweizer_website_26jan.pdf
         text: "CV"
-      # - href: research/index_research.qmd
-      #   text: "Research"
-      # - href: teaching.qmd
-      #   text: "Teaching"
         
 format:
   html:

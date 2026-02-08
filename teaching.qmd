@@ -1,29 +1,287 @@
 ---
-title: ""
+title: "Teaching"
+format: html
+css: teaching-styles.css
 ---
 
-## Teaching
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: teaching
+<!-- 2025 -->
 
-#### The Politics of Climate Change
+:::::::::: year-block
+::: year-label
+2025
+:::
 
-*Spring 2023 \| University of Mannheim \| Undergraduate level*
+:::::::: year-content
+::: term
+Spring
+:::
 
--   This course introduces students to theories and methods on the nexus of climate change and politics. It primarily focuses on (quantitative) empirical research addressing party competition, political behavior, and policymaking.
+:::::: course
+#### Introduction to Computational Text Analysis in R
 
-#### Academic Research and Writing
+::: meta
+University of Mannheim \| Undergraduate level
+:::
 
-*Fall 2022 \| University of Mannheim \| Undergraduate level*
+::: course-text
+Against the background of the ever-increasing availability of (unstructured) data, the goal of this seminar is to equip you with the necessary skills to collect large quantities of text, to process it, and to analyse it. These skills allow you to pursue your own empirical research projects. The course consists of three major modules and is a very practical introduction to computational text analysis with the R programming language. First, you will be guided into the programming language learning the fundamentals of R and get to know the workflow for data analysis: Import, tidy, transform, and visualize data. No prior experience with R is necessary! Second, we will learn how to implement various text analysis methods and understand the intuition behind these methods. Third, we will cover static and dynamic web scraping and use these tools to collect our own text data.
+:::
 
--   The course introduces first year students to the basics of scientific work and good scientific practice.
+::: read-more
+Read more
+:::
+::::::
+::::::::
+::::::::::
 
-#### Data Collection and Analysis with R
+<!-- 2024 -->
 
-*Spring 2022 \| University of Mannheim \| Undergraduate level*
+::::::::::::::::::::::: year-block
+::: year-label
+2024
+:::
 
--   The course introduces students to data collection and analysis for web (and social media) data using the R programming language.
+::::::::::::::::::::: year-content
+::: term
+Fall
+:::
 
+:::::::::: course
+#### Automated Data Collection with R
+
+::: meta
+University of Mannheim \| Undergraduate level
+:::
+
+::: course-text
+Against the background of the ever-increasing availability of (unstructured) online data, the goal of this course is to equip the students with the necessary skills to collect large quantities of data for their own research projects, to process the data, and to automate this workflow in a reproducible way. The course introduces students to automated data collection using a very practical approach with the R programming language. The course consists of three major modules. First, you will be guided into the programming language learning the fundamentals of R and the data science workflow: Import, tidy, transform, & visualize data. No prior experience with R is necessary! Second, we will focus on the workflow for reproducible research and how to communicate our results, also in an interactive way. For example, this includes version control via Github. Third, we will cover static and dynamic web scraping as well as APIS’s from a conceptual perspective and use these tools to collect web data. Finally, we will also learn how to automate this process.
+:::
+
+::: read-more
+Read more
+:::
+
+::: {style="height: 1.5rem;"}
+:::
+
+#### Teaching assistant for Web Data Collection with Python and R
+
+::: meta
+GESIS \| PhD level \| 5 day course, Lecturer: Prof. Iulia Cioroianu
+:::
+
+::: course-text
+The exponential increase in online and social media data offers unprecedented opportunities for advancing research across a variety of fields, both within academia and outside of it. This course provides researchers the tools needed to collect and pre-process large-scale data from a range of online sources. The course will be offered both in R and in Python. Students can attend taught sessions in both programming languages in the morning, and can choose their preferred language for individual/group work and exercises in the afternoon. The content and examples used in the lecturer-led tutorials are similar across programming languages, making it easier for those interested in developing new skills in a secondary language that they may not be proficient in to do so by drawing parallels across the two sessions.
+
+Through a combination of lectures, hands-on tutorials and individual/group exercises, participants will develop a theoretical understanding of the challenges associated with online data collection and the best methods and tools for addressing them in R and in Python, as well as the practical skills needed to collect data through Application Programming Interfaces (APIs), navigate dynamic websites and scrape data from both static and dynamic web pages. The sources used in the examples provided include social media websites, online media outlets and news aggregators, government data portals and other large-scale online data repositories.
+
+Acknowledging that the most difficult part of a computational project involving the collection of complex and heterogenous data is often the pre-processing needed to prepare the data for subsequent analysis and link it across a variety of sources, the course also covers text-based methods for data cleaning and pre-processing. By the end of the week, participants should be able to apply the methods studied to extract and process data for their own research projects.
+:::
+
+::: read-more
+Read more
+:::
+::::::::::
+
+::: term
+Spring
+:::
+
+:::::::::: course
+#### Automated Data Collection with R
+
+::: meta
+University of Mannheim \| Undergraduate level
+:::
+
+::: course-text
+Against the background of the ever-increasing availability of (unstructured) online data, the goal of this course is to equip the students with the necessary skills to collect large quantities of data for their own research projects, to process the data, and to automate this workflow in a reproducible way. The course introduces students to automated data collection using a very practical approach with the R programming language. The course consists of three major modules. First, you will be guided into the programming language and learn the fundamentals of R. No prior experience with R is necessary. Among other things, we will cover how to import, transform, and visualize data. Second, we will focus on the workflow for reproducible research. For example, this includes version control via Github. Third, we will cover static and dynamic web scraping as well as APIS’s from a conceptual perspective and use these tools to collect web data. Finally, we will also learn how to automate this process.
+:::
+
+::: read-more
+Read more
+:::
+
+::: {style="height: 1.5rem;"}
+:::
+
+#### Statistics
+
+::: meta
+University of Innsbruck \| Undergraduate level
+:::
+
+::: course-text
+The course provides knowledge of quantitative methods for investigating central questions in political science through practical examples. Its goal is to enable participants to independently conduct empirical analyses using the statistical software R. No prior knowledge of R is required. The main topics of the course are univariate, bivariate, and introductory multivariate analysis methods, as well as the graphical and tabular presentation of empirical results.
+:::
+
+::: read-more
+Read more
+:::
+::::::::::
+:::::::::::::::::::::
+:::::::::::::::::::::::
+
+<!-- 2023 -->
+
+::::::::::::::::::: year-block
+::: year-label
+2023
+:::
+
+::::::::::::::::: year-content
+::: term
+Fall
+:::
+
+:::::::::: course
 #### Data Visualization for Comparative Politics with R
 
-*Fall 2021 \| University of Mannheim \| Undergraduate level*
+::: meta
+University of Mannheim \| Undergraduate level
+:::
 
--   The course introduces students to data visualization techniques for comparative politics using the R programming language.
+::: course-text
+The course introduces students to data visualization techniques for comparative politics taking a very practical approach using the R programming language. At the beginning of the course, you will be guided into the programming language by learning the basics of data management, generating summary statistics, and simple visualizations. On this basis, we will then deal with large quantities of data – covering temporal, spatial, and relational dimensions – and more complex data visualizations such as maps, interactive plots, or GIFs. The goal of this course is to equip the students with the necessary skills to collect (large quantities of) data, clean datasets, explore and understand patterns of data, and communicate these patterns and findings with visualizations. In addition, learning to produce effective graphs from own data is a great way to a better understanding of graphs – as well as their strengths or shortcomings – presented in research journals or the media.
+:::
+
+::: read-more
+Read more
+:::
+
+::: {style="height: 1.5rem;"}
+:::
+
+#### Applied Methods of Social Sciences
+
+::: meta
+University of Innsbruck \| Undergraduate level
+:::
+
+::: course-text
+This course teaches the fundamentals of academic work and good scientific practice in political science through practical examples. Topics include critically reading and working with scientific texts, conducting literature research (including using reference management software), formulating testable hypotheses, methods of data collection and analysis, presenting empirical results, and writing term papers. Overall, students will be equipped to critically evaluate scientific research and to carry out their own research projects with a focus on quantitative methods.
+:::
+
+::: read-more
+Read more
+:::
+::::::::::
+
+::: term
+Spring
+:::
+
+:::::: course
+#### The Politics of Climate Change
+
+::: meta
+University of Mannheim \| Undergraduate level
+:::
+
+::: course-text
+Climate change is one of this century’s most significant challenges. Climate change mitigation and adaptation will require massive economic transformations and strongly affect other fields: infrastructure, health, agriculture, biodiversity, migration, and many more. How do political actors – parties, politicians, social movements, institutions, international organizations, etc. – react to and influence these transformations? And what about public opinion? Do citizens change their behavior (voting, consumption, etc.)? If yes, why and under what conditions? This course introduces students to theories and methods on the nexus of climate change and politics. It aims to equip the students with the necessary skills to formulate and pursue their own research questions at the intersection of climate change and politics. In addition, students will learn to engage critically with existing research and understand its implications. In doing so, the course will primarily focus on (quantitative) empirical research addressing party competition, political behavior, and policymaking.
+:::
+
+::: read-more
+Read more
+:::
+::::::
+:::::::::::::::::
+:::::::::::::::::::
+
+<!-- 2022 -->
+
+::::::::::::::: year-block
+::: year-label
+2022
+:::
+
+::::::::::::: year-content
+::: term
+Fall
+:::
+
+:::::: course
+#### Academic Research and Writing
+
+::: meta
+University of Mannheim \| Undergraduate level
+:::
+
+::: course-text
+The seminar teaches central techniques of academic work through practical examples. Topics include reading and working with scientific texts, preparing and presenting presentations, writing term papers, conducting literature research, and working with additional research databases. These skills are practiced through small assignments.
+:::
+
+::: read-more
+Read more
+:::
+::::::
+
+::: term
+Spring
+:::
+
+:::::: course
+#### Data Collection and Analysis with R
+
+::: meta
+University of Mannheim \| Undergraduate level
+:::
+
+::: course-text
+The course introduces students to data collection and analysis for web (and social media) data taking a very practical approach using the R programming language. At the beginning of the course, you will be guided into the programming language and learn the basics of data collection, data processing and data analysis. We will then extract information from websites and social media platforms (web scraping) to create our own data sets. In this course, we will deal with more traditional forms of political communication such as parliamentary speeches or press releases, but also cover social media data (e.g., Twitter, Facebook, Instagram, etc.). Against the background of ever-increasing availability of (unstructured) online data, the goal of this course is to equip the students with the necessary skills to collect large quantities of data for their own research projects as well as to process and analyse these large amounts of data.
+:::
+
+::: read-more
+Read more
+:::
+::::::
+:::::::::::::
+:::::::::::::::
+
+<!-- 2021 -->
+
+:::::::::: year-block
+::: year-label
+2021
+:::
+
+:::::::: year-content
+::: term
+Fall
+:::
+
+:::::: course
+#### Data Visualization for Comparative Politics with R
+
+::: meta
+University of Mannheim \| Undergraduate level
+:::
+
+::: course-text
+The course introduces students to data visualization techniques for comparative politics taking a very practical approach using the R programming language. At the beginning of the course, you will be guided into the programming language by learning the basics of data management, generating summary statistics and simple visualizations. On this basis, we will then deal with large quantities of data – covering temporal, spatial and relational dimensions – and more complex data visualizations such as maps, interactive plots or videos. The goal of this course is to equip the students with the necessary skills to collect large quantities of data, to clean and arrange datasets, to explore and understand patterns of data, and to communicate these patterns and findings by visualizations. In addition, learning to produce effective graphs from own data is a great way to a better understanding of graphs – as well as their strengths or shortcomings – presented in research journals or the media.
+:::
+
+::: read-more
+Read more
+:::
+::::::
+::::::::
+::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+```{=html}
+<script>
+document.querySelectorAll('.course').forEach(function(course){
+  const text = course.querySelector('.course-text');
+  const btn = course.querySelector('.read-more');
+  if(btn){
+    btn.addEventListener('click', function(){
+      text.classList.toggle('expanded');
+      btn.textContent = text.classList.contains('expanded') ? 'Show less' : 'Read more';
+    });
+  }
+});
+</script>
+```

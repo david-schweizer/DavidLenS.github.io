@@ -15,6 +15,41 @@ format:
 
 :::::::::::::::::::::: section-block
 ::::::::::::::::::::: section-content
+
+<!-- 2026 -->
+
+::::::::::::: year-block
+::: year-label
+2026
+:::
+
+::::::::::: year-content
+:::::: paper
+#### [How occupation shapes awareness and preferences for European funding](https://journals.sagepub.com/doi/10.1177/14651165261423537)
+
+::: meta
+European Union Politics
+:::
+
+::: co-authors
+Johannes Lattmann, David Schweizer
+:::
+
+::: paper-text
+The European Union’s (EU) Cohesion Policy is one of the main instruments to tackle the economic struggle of left-behind regions, however, only little is known about the awareness and the opinion of citizens towards this regional policy. This article examines how awareness of EU regional policies and spending preferences varies across occupations. We argue that differences in awareness across occupations are attributable to skill and responsibility differences and divergent work logics. Our analysis of a harmonized Eurobarometer dataset (N = 82,365) provides evidence for differences in EU funding awareness and spending preferences across occupational groups, which correspond to their own material interests. In addition, citizens indicate preferences for funding decisions to be made at the most local level.
+:::
+
+<button class="read-more" onclick="this.previousElementSibling.classList.toggle(&#39;expanded&#39;); this.textContent = this.previousElementSibling.classList.contains(&#39;expanded&#39;) ? &#39;Show less&#39; : &#39;Show full abstract&#39;;">
+
+Show full abstract
+
+</button>
+
+::::::
+:::::::::::
+:::::::::::::
+
+
 <!-- 2025 -->
 
 ::::::::::::: year-block
@@ -105,22 +140,14 @@ Show full abstract
 
 # Working papers
 
+
+<!-- [Conditionally Accepted]{.status-badge .status-conditional}
+<!-- [R&R]{.status-badge .status-rr}
 <!-- Working Papers -->
 
 ::::::::::::::::::::::::: section-block
 :::::::::::::::::::::::: section-content
-::::: paper
-#### How Occupation Shapes Awareness and Preferences for European Funding
 
-::: meta
-:::
-
-::: co-authors
-Johannes Lattmann, David Schweizer
-:::
-
-[Conditionally Accepted]{.status-badge .status-conditional}
-:::::
 
 ::::: paper
 #### The Underlying Dimensions of Political Support
@@ -132,7 +159,7 @@ Johannes Lattmann, David Schweizer
 Jan Menzner, David Schweizer
 :::
 
-[R&R]{.status-badge .status-rr}
+[Accepted for publication]{.status-badge .status-conditional}
 :::::
 
 ::::: paper

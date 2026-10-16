@@ -1,0 +1,48 @@
+---
+title: "David Schweizer"
+image: Profilbild.jpg
+output-file: about.html
+aliases:
+  - index.html
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/schweizer-david/
+      icon: linkedin
+    - text: Bluesky
+      href: https://bsky.app/profile/davidschweizer.bsky.social
+      icon: bluesky
+    - text: Google Scholar
+      href: https://scholar.google.com/citations?user=NO7N2qoAAAAJ&hl=de&oi=ao
+      icon: mortarboard-fill
+    - text: Email
+      href: mailto:david.schweizer@rptu.de
+      icon: envelope-at-fill
+---
+
+::: about-me-text
+Hello! I'm David, a research associate at the [Chair of Policy Analysis and Political Economy](https://sowi.rptu.de/en/dpts/political-science/home/faculty) at RPTU Kaiserslautern-Landau and a PhD student in Political Science at the [GESS](https://www.uni-mannheim.de/gess/), University of Mannheim. 
+
+Previously, I taught seminars at the [Chair of Comparative Government](https://www.sowi.uni-mannheim.de/en/debus/) in Mannheim, worked in the ERC project [Pergap](https://inequalityhub.org/project/), and was a PhD trainee at the European Central Bank.
+
+My research explores how climate change, digitalization, and EU Cohesion Policy affect party competition, political behavior, and political communication.
+:::
+
+::: latest-research
+**Latest research:**
+
+::: latest-item
+
+**[The Underlying Structure of Political Support](https://www.cogitatiopress.com/politicsandgovernance/article/view/11791)**  
+<span class="latest-meta">with Jan Menzner | *Politics and Governance*</span>
+:::
+
+::: latest-item
+**[How occupation shapes awareness and preferences for European funding](https://journals.sagepub.com/doi/full/10.1177/14651165261423537)**  
+<span class="latest-meta">with Johannes Lattmann | *European Union Politics*</span>
+:::
+
+:::

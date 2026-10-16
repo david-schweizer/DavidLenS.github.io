@@ -1,9 +1,7 @@
 ---
 title: "David Schweizer"
 image: Profilbild.jpg
-output-file: about.html
-aliases:
-  - index.html
+output-file: index.html
 about: 
   template: trestles
   image-shape: rounded

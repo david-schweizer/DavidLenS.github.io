@@ -1,9 +1,6 @@
 ---
 title: "David Schweizer"
 image: Profilbild.jpg
-output-file: about.html
-aliases:
-  - index.html
 about: 
   template: trestles
   image-shape: rounded
@@ -24,25 +21,23 @@ about:
 ---
 
 ::: about-me-text
-Hello! I'm David, a research associate at the [Chair of Policy Analysis and Political Economy](https://sowi.rptu.de/en/dpts/political-science/home/faculty) at RPTU Kaiserslautern-Landau and a PhD student in Political Science at the [GESS](https://www.uni-mannheim.de/gess/), University of Mannheim. 
+Hello! I'm David, a research associate at the [Chair of Policy Analysis and Political Economy](https://sowi.rptu.de/en/dpts/political-science/home/faculty) at RPTU Kaiserslautern-Landau and a PhD student in Political Science at the [GESS](https://www.uni-mannheim.de/gess/), University of Mannheim.
 
 Previously, I taught seminars at the [Chair of Comparative Government](https://www.sowi.uni-mannheim.de/en/debus/) in Mannheim, worked in the ERC project [Pergap](https://inequalityhub.org/project/), and was a PhD trainee at the European Central Bank.
 
 My research explores how climate change, digitalization, and EU Cohesion Policy affect party competition, political behavior, and political communication.
 :::
 
-::: latest-research
+::::: latest-research
 **Latest research:**
 
 ::: latest-item
-
-**[The Underlying Structure of Political Support](https://www.cogitatiopress.com/politicsandgovernance/article/view/11791)**  
-<span class="latest-meta">with Jan Menzner | *Politics and Governance*</span>
+[**The Underlying Structure of Political Support**](https://www.cogitatiopress.com/politicsandgovernance/article/view/11791)\
+[with Jan Menzner \| *Politics and Governance*]{.latest-meta}
 :::
 
 ::: latest-item
-**[How occupation shapes awareness and preferences for European funding](https://journals.sagepub.com/doi/full/10.1177/14651165261423537)**  
-<span class="latest-meta">with Johannes Lattmann | *European Union Politics*</span>
+[**How occupation shapes awareness and preferences for European funding**](https://journals.sagepub.com/doi/full/10.1177/14651165261423537)\
+[with Johannes Lattmann \| *European Union Politics*]{.latest-meta}
 :::
-
-:::
+:::::

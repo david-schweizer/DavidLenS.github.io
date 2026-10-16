@@ -10,7 +10,7 @@ website:
     left: "&copy; Copyright 2025, David Schweizer"
   navbar:
     left:
-      - href: index_20261015.qmd
+      - href: about.html
         text: "About"
       - href: research.qmd
         text: "Research"

@@ -38,4 +38,45 @@ body > div.aa-DetachedOverlay > div > div > button {
   color: #8399B0;
 }
 
+/*-- latest research --*/
 
+.latest-research strong {
+  color: #8399B0;
+}
+
+.latest-research {
+  border-top: 1px solid #dee2e6;
+  margin-top: 2rem;
+  padding-top: 1.25rem;
+}
+
+.latest-label {
+  font-size: 1.6rem;
+  color: #212529;
+  margin-bottom: 1rem;
+}
+
+.latest-item {
+  margin-bottom: 1.25rem;
+}
+
+.latest-item p {
+  margin-bottom: 0;
+}
+
+.latest-meta {
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+.latest-research a,
+.latest-research a strong {
+  color: #212529;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.latest-research a:hover,
+.latest-research a:hover strong {
+  color: #8399B0;
+}

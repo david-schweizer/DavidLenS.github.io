@@ -13,9 +13,8 @@ format:
 
 <!-- Peer-Reviewed Articles -->
 
-:::::::::::::::::::::: section-block
-::::::::::::::::::::: section-content
-
+::::::::::::::::::::::::::::::::: section-block
+:::::::::::::::::::::::::::::::: section-content
 <!-- 2026 -->
 
 ::::::::::::: year-block
@@ -24,6 +23,28 @@ format:
 :::
 
 ::::::::::: year-content
+:::::: paper
+#### [The Underlying Structure of Political Support](https://www.cogitatiopress.com/politicsandgovernance/article/view/11791)
+
+::: meta
+Politics and Governance
+:::
+
+::: co-authors
+Jan Menzner, David Schweizer
+:::
+
+::: paper-text
+Contemporary politics is marked by concerns about declining citizen satisfaction with democracy, falling political trust, and weakening democratic support. Scholars in this field often rely on the concept of political support but use its indicators interchangeably or inconsistently. Meanwhile, despite its relevance for democratic resilience, studies on its underlying structure remain scarce. Drawing on the foundational work of Easton and Norris, we derive expectations about the dimensionality of political support and the interplay among its various indicators. We test these expectations using factor analysis, item response theory models, random intercept cross-lagged panel models, and first-difference models applied to 29 waves of the German Longitudinal Election Study panel. As expected, specific support fluctuates substantially, whereas diffuse support is more stable, even though recent data show small declines in multiple indicators. Our results indicate that political support indicators form a one-dimensional latent trait. Along this trait, specific evaluations, like satisfaction with the government, differentiate respondents at higher levels of support, whereas more diffuse attitudes, such as institutional trust, best distinguish between those with below-average support. Longitudinal analyses reveal no evidence that changes in specific support systematically precede changes in diffuse support. Instead, changes in any indicator tend to predict subsequent changes in others, indicating self-reinforcing dynamics. Finally, first-difference models offer limited support for a buffering “reservoir of goodwill.” Prior levels of specific support neither amplify nor mitigate the effects of subsequent changes on more diffuse indicators. Beyond structural insights, our item response theory results provide important practical guidance for researchers when deciding between political support indicators.
+:::
+
+<button class="read-more" onclick="this.previousElementSibling.classList.toggle(&#39;expanded&#39;); this.textContent = this.previousElementSibling.classList.contains(&#39;expanded&#39;) ? &#39;Show less&#39; : &#39;Show full abstract&#39;;">
+
+Show full abstract
+
+</button>
+::::::
+
 :::::: paper
 #### [How occupation shapes awareness and preferences for European funding](https://journals.sagepub.com/doi/10.1177/14651165261423537)
 
@@ -44,11 +65,9 @@ The European Union’s (EU) Cohesion Policy is one of the main instruments to ta
 Show full abstract
 
 </button>
-
 ::::::
 :::::::::::
 :::::::::::::
-
 
 <!-- 2025 -->
 
@@ -135,33 +154,19 @@ Show full abstract
 ::::::
 :::::::
 :::::::::
-:::::::::::::::::::::
-::::::::::::::::::::::
+::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::
 
 # Working papers
 
-
+```{=html}
 <!-- [Conditionally Accepted]{.status-badge .status-conditional}
 <!-- [R&R]{.status-badge .status-rr}
 <!-- Working Papers -->
+```
 
-::::::::::::::::::::::::: section-block
-:::::::::::::::::::::::: section-content
-
-
-::::: paper
-#### The Underlying Dimensions of Political Support
-
-::: meta
-:::
-
-::: co-authors
-Jan Menzner, David Schweizer
-:::
-
-[Accepted for publication]{.status-badge .status-conditional}
-:::::
-
+:::::::::::::::::::::: section-block
+::::::::::::::::::::: section-content
 ::::: paper
 #### ClimaParl: Detecting Climate Change in Political Text
 
@@ -213,10 +218,10 @@ Jan Menzner, David Schweizer
 :::
 
 ::: co-authors
-Benjamin Rohr, John Levi Martin, Jan Kamlah, Julius Diener, David Schweizer
+Benjamin Rohr, John Levi Martin, Jan Kamlah, Julius Diener, David Schweizer \
+[Accepted for publication]{.status-badge .status-conditional}
 :::
 :::::
-
 
 ::::: paper
 #### The ECB in National Parliaments: Mapping Discourse and its Drivers
@@ -225,14 +230,14 @@ Benjamin Rohr, John Levi Martin, Jan Kamlah, Julius Diener, David Schweizer
 :::
 
 ::: co-authors
-Xavier D’Arcy, Ferdinand Dreher, Niklas Jütting, Cyprien Milea, David Schweizer
+Xavier D’Arcy, Ferdinand Dreher, Niklas Jütting, Cyprien Milea, David Schweizer \
+[R&R]{.status-badge .status-rr}
 :::
+
+
 :::::
-
-
-
-::::::::::::::::::::::::
-:::::::::::::::::::::::::
+:::::::::::::::::::::
+::::::::::::::::::::::
 
 # Other publications
 
